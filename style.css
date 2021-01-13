@@ -1,0 +1,70 @@
+
+h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+.name{
+    color:orange
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 60%;
+    height: 300px;
+}
+.button{
+    background-image:linear-gradient(45deg,lightsalmon,tomato);
+    color:white;
+    border-radius: 8px;
+    border:1px solid red;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 10px 20px;
+}
+.link{
+    background-image:linear-gradient(45deg,lightsalmon,tomato);
+    color:white;
+    border-radius: 8px;
+    border:1px solid red;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 10px 20px;
+    width: 90px;
+
+}
+section{
+    height: 500px;
+    
+}
+h2{
+    font-size: 25px;
+}
+p{
+    color: darkgrey;
+}
+.op{
+    color: orange;
+}
+.full{
+    box-shadow: 10px 10px 40px gray;
+    height: 70%;
+    border-radius: 5px;
+    background-color: white;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice:1;
+}
+#half-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice:1 ;
+}
+footer p{
+    text-align: center;
+}
